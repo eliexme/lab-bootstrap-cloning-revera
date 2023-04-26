@@ -3,7 +3,7 @@
 }
 
 #latest-projects img{
-    width: 150px;
+    width: 100%;
 }
 
 #latest-articles{
@@ -11,7 +11,7 @@
 }
 
 #latest-articles img{
-    width: 150px;
+    width: 100%;
 }
 
 #grey{
@@ -22,4 +22,8 @@
 footer{
     padding: 0 3rem;
     background-color: grey;
+}
+
+.col{
+    width: 20vw;
 }
