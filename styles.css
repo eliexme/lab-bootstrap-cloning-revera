@@ -1,3 +1,25 @@
-header{
-    background-color: red;
+#latest-projects{
+    margin: 5rem;
+}
+
+#latest-projects img{
+    width: 150px;
+}
+
+#latest-articles{
+    margin: 5rem;
+}
+
+#latest-articles img{
+    width: 150px;
+}
+
+#grey{
+    background-color: lightgrey;
+    padding: 2rem 5rem;
+}
+
+footer{
+    padding: 0 3rem;
+    background-color: grey;
 }
